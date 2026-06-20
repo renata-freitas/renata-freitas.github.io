@@ -93,7 +93,6 @@ a {
   width: min(88vw, 720px);
   height: 1080px;
   overflow: visible;
-  opacity: 0.30;
   filter: grayscale(0.08) saturate(0.86);
   transform: translateX(-50%);
   pointer-events: none;
@@ -509,7 +508,6 @@ h1 {
     left: 50%;
     width: min(100vw, 390px);
     height: 760px;
-    opacity: 0.24;
   }
 
   .hero-photo::after {
